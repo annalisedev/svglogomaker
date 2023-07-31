@@ -30,6 +30,6 @@ A gif of the walkthrough can be found in assets: <br>
 
 Some external sources that supported me to understand the task and write the code are linked below. I also used the weekly activities considerably as I solved these questions. 
 
-SVG tutorial https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
-Basic SVG shapes https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes
-Text in SVG https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
+SVG tutorial https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial <br>
+Basic SVG shapes https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes <br>
+Text in SVG https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts <br>
