@@ -15,13 +15,16 @@ The Github Repository can be found here: https://github.com/annalisedev/svglogom
 
 ## Video and Screenshot
 
-Find a video demonstrating a walkthrough of the application here: 
+Find a video demonstrating a walkthrough of the application here: https://drive.google.com/file/d/1nNUm8Zc3LTzSrn7TsIgtWKzb55031mAo/view 
 
 A screenshot of a sample logo can be found in assets:
-![ScreenshotofApplication](./assets/)
+![ScreenshotofApplication](./assets/ScreenshotofLogo.png)
+
+A screenshot of the terminal can be found in assets:
+![ScreenshotofApplication](./assets/ScreenshotofTerminal.png)
 
 A gif of the walkthrough can be found in assets: <br>
-![README Generator Demo](./assets/)
+![SVG Logo Maker Demo](./assets/SVGLogoMaker.gif)
 
 ## Support
 
